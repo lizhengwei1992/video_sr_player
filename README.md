@@ -14,7 +14,7 @@ Video Player including SR algorithm. You can view a video with Super Resolution(
 
 ## Installation 
 
-This Video Player GUI builds with PyQt5 in python 3.5 environment.(ubuntu 16.04)
+This Video Player GUI builds with PyQt5 in python 3.5 environment.(ubuntu 16.04, GPU:1070ti)
 
 - ### numpy
 
